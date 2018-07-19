@@ -85,6 +85,7 @@ Ray comes with libraries that accelerate deep learning and reinforcement learnin
    rllib-models.rst
    rllib-concepts.rst
    rllib-package-ref.rst
+   ml-sgd.rst
 
 .. toctree::
    :maxdepth: 1
